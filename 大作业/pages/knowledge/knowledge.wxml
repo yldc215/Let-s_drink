@@ -1,0 +1,11 @@
+<view class="water">饮水小知识</view>
+<view class="knowledge">
+<view wx:if="{{a%6==1}}">30度左右的水温最佳</view>
+<view wx:if="{{a%6==2}}">一天要饮用8杯左右</view>
+<view wx:if="{{a%6==3}}">未渴先喝水</view>
+<view wx:if="{{a%6==4}}">早上喝淡盐水</view>
+<view wx:if="{{a%6==5}}">晚上喝蜂蜜水</view>
+<view wx:if="{{a%6==0}}">不要用饮料代替水</view>
+</view>
+<button bindtap="next" class="next">下一条</button>
+<button bindtap="return" class="return">返回</button>

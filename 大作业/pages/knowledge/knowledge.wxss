@@ -1,0 +1,16 @@
+.knowledge{
+  text-align: center;
+  margin-top: 50px
+}
+.water{
+  font-size: 50rpx;
+  text-align: center;
+  margin-top: 20px
+}
+.next{
+  margin-top: 50px;
+  background: white
+}
+.return{
+  background: white
+}

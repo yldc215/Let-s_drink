@@ -1,0 +1,20 @@
+.water{
+  margin-top: 90px;
+  background: white
+}
+.env{
+  margin-top: 90px;
+  background: white
+}
+.drink{
+  margin-top: 90px;
+  background: white
+}
+.a1{
+  margin-top:10px;
+  text-align: center
+}
+.a2{
+  margin-top:10px;
+  text-align: center
+}
